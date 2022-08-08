@@ -235,25 +235,25 @@ footer{
 }
 .texto table p{
     margin: 0;
-    padding: 3px;
-    font-size: 8px;
+    padding: 8px;
+    font-size: 16px;
 }
 .texto th{
     text-align: center;
-    padding: 5px;
+    padding: 8px;
     font-family: 'Hind';
 }
 .texto td{
-    padding: 5px;
-    font-size: 8px;
+    padding: 8px;
+    font-size: 18px;
 }
 .texto small{
-    font-size: 6px;
+    font-size: 12px;
 }
 .texto tr{
-    font-size: 10px;
+    font-size: 16px;
 }
 .precio{
-    font-size: 8px;
+    font-size: 16px;
     font-family: 'Consolas';
 }
