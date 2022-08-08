@@ -161,6 +161,9 @@ h3{
 }
 .valores li{
     padding: 10px;
+}
+.valores li div{
+
     font-size: 18px;
 }
 .valores img{
