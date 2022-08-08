@@ -20,6 +20,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     color: #FFF;
+    padding: 10px;
     background-color: rgba(0,0,0,0.2);
 }
 nav ul{
@@ -68,7 +69,7 @@ nav ul li:hover{
     color: #000;
 }
 .contenedor .word{
-    font-size: 14px;
+    font-size: 18px;
     position: absolute;
     right: 0;
     padding: 10px;
@@ -83,7 +84,7 @@ nav ul li:hover{
     flex-direction: column;
 }
 .titulo h1{
-    font-size:30px;
+    font-size:40px;
     color:white;
     outline:#000 1px solid;
     padding: 10px;
