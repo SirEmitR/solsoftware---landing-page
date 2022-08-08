@@ -161,14 +161,15 @@ h3{
 }
 .valores li{
     padding: 10px;
+    font-size: 18px;
 }
 .valores img{
-    width: 50px;
+    width: 80px;
     vertical-align: bottom;
     display: inline-block;
 }
 .excel img{
-    width: 20px;
+    width: 60px;
 }
 .excel{
     width: 50%;
