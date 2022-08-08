@@ -103,21 +103,21 @@ h3{
     height: 80px;
 }
 .contenedor h3{
-    font-size: 38px;
+    font-size: 32px;
     text-align: center;
 }
 .contenedor p{
     text-align: justify;
-    font-size: 0.6rem;
+    font-size: 18px;
     width: 80%;
 }
 .vacio h3{
-    font-size: 22px;
+    font-size: 32px;
 }
 .cuadrado{
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     background-color: rgba(255, 255, 255, 0.293);
     border-radius: 100px;
     padding: 10px;
@@ -130,15 +130,15 @@ h3{
     text-align: center;
 }
 .cuadrado img{
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
 }
 .texto{
     margin: 20px;
     background-color: #FFF;
 }
 .texto p{
-    font-size: 0.6rem;
+    font-size: 18px;
     padding: 10px;
 }
 #ambiente img{
