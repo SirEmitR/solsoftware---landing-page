@@ -11,7 +11,7 @@ body{
     background-attachment: fixed;
 }
 section{
-    max-width: 500px;
+    max-width: 700px;
     margin: 0 auto;
 }
 nav{
@@ -52,7 +52,7 @@ nav ul li:hover{
 }
 
 .vacio, .contenedor{
-    width: 100vw;
+    width: 100%;
     min-height: 70vh;
 }
 #portada{
