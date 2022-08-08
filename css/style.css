@@ -235,16 +235,16 @@ footer{
 }
 .texto table p{
     margin: 0;
-    padding: 8px;
+    padding: 4px;
     font-size: 16px;
 }
 .texto th{
     text-align: center;
-    padding: 8px;
+    padding: 4px;
     font-family: 'Hind';
 }
 .texto td{
-    padding: 8px;
+    padding: 4px;
     font-size: 18px;
 }
 .texto small{
