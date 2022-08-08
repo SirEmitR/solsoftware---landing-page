@@ -84,7 +84,7 @@ nav ul li:hover{
     flex-direction: column;
 }
 .titulo h1{
-    font-size:40px;
+    font-size:48px;
     color:white;
     outline:#000 1px solid;
     padding: 10px;
@@ -103,7 +103,7 @@ h3{
     height: 80px;
 }
 .contenedor h3{
-    font-size: 28px;
+    font-size: 38px;
     text-align: center;
 }
 .contenedor p{
