@@ -52,7 +52,7 @@ nav ul li:hover{
 }
 
 .vacio, .contenedor{
-    width: 100%;
+    width: 100vw;
     min-height: 70vh;
 }
 #portada{
